@@ -1,0 +1,27 @@
+.imagemtdah{
+    background-image: url(../img/telamarrom.png);
+    width: 1000px;
+    height: 400px;
+    margin-left: 10%;
+    padding: 4%;
+    border-radius: 10px;
+} 
+
+h2{
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+a {
+    /* font-size: 20px; */
+    color: black;
+}
+
+a:hover{
+    text-decoration: none;
+    color:brown;
+}
+
+.texto {
+    font-size: 20px;
+}
